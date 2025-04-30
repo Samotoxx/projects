@@ -8,4 +8,5 @@ def my_decorator(func):
 @my_decorator
 def greet(name):
     print(f"Пока, {name}!")
+    print ('Hello')
     
