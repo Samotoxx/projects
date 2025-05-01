@@ -3,8 +3,8 @@
 ## 🔧 Настройка Git
 | Команда | Описание |
 |---------|----------|
-| `git config --global user.name "Sergey"` | Установить имя пользователя |
-| `git config --global user.email "maestrox@bk.ru"` | Установить email пользователя |
+| `git config --global user.name "Ваше Имя"` | Установить имя пользователя |
+| `git config --global user.email "ваш@email.com"` | Установить email пользователя |
 | `git config --list` | Показать текущие настройки |
 
 ## 📂 Создание и клонирование репозиториев
@@ -12,6 +12,8 @@
 |---------|----------|
 | `git init` | Создать новый локальный репозиторий |
 | `git clone <url-репозитория>` | Клонировать удалённый репозиторий |
+
+| git remote add origin https://github.com/Samotoxx/projects.git 
 
 ## 🔄 Основные рабочие команды
 | Команда | Описание |
